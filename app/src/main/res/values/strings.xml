@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sentence Generator</string>
+    <string name="attribution">images by canva.com</string>
+    <string name="sentence">Press generate button</string>
+</resources>
